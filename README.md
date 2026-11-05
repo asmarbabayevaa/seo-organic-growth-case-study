@@ -22,7 +22,7 @@ Entity-based SEO and topical authority (semantic cores, topic clusters, pillar p
 
 Brand traffic comes from marketing and draws. Non-brand growth is where SEO shows.
 
-![Growth beyond brand](charts/01_growth_beyond_brand.png)
+![Growth beyond brand](01_growth_beyond_brand.png)
 
 ## 2. Same audience, more clicks
 
