@@ -28,29 +28,29 @@ Brand traffic comes from marketing and draws. Non-brand growth is where SEO show
 
 Impressions stayed flat while clicks nearly doubled: pages moved up the results, and CTR rose from about 19% to 36%.
 
-![Clicks vs impressions](charts/02_clicks_vs_impressions.png)
+![Clicks vs impressions](02_clicks_vs_impressions.png)
 
-![Average position](charts/03_average_position.png)
+![Average position](03_average_position.png)
 
 ## 3. Year-over-year check
 
 Comparing the same months removes seasonality.
 
-![Year over year](charts/07_year_over_year.png)
+![Year over year](07_year_over_year.png)
 
 ## 4. Mix shift
 
-![Click share](charts/06_click_share.png)
+![Click share](06_click_share.png)
 
 ## 5. Ranking footprint on competitor-brand queries
 
 I also worked on visibility for searches around competitors' brands. The lasting result is the page-one footprint, not the clicks.
 
-![Top 10 footprint](charts/04_top10_footprint.png)
+![Top 10 footprint](04_top10_footprint.png)
 
 In May-June 2026, clicks spiked during a competitor's lottery campaign, then fell back. I treat it as a one-off, not a trend.
 
-![Competitor spike](charts/05_competitor_spike.png)
+![Competitor spike](05_competitor_spike.png)
 
 ## Method
 
